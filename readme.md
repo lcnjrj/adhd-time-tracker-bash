@@ -56,7 +56,7 @@ Não encontrei nada que atendesse essas necessidades, então criei.
 - 📏 **Barra de progresso** - Representação visual do tempo decorrido
 
 ---
-[Tela inicial](https://github.com/lcnjrj/adhd-time-tracker-bash/blob/main/screen-inicial-00.jpg)
+![Tela inicial](https://github.com/lcnjrj/adhd-time-tracker-bash/blob/main/screen-inicial-00.jpg)
 ---
 
 ## 🚀 Instalação
