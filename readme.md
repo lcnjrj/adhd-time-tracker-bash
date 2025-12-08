@@ -608,9 +608,3 @@ Se você também tem ADHD, trabalha com atividades mistas (digital + analógico)
 *"ADHD não é déficit de atenção. É atenção em todas as direções. Esta ferramenta me ajuda a direcionar essa energia."*
 
 ---
-
-## 📚 Recursos sobre ADHD e Produtividade
-
-- [Como o ADHD afeta gestão de tempo](https://www.additudemag.com/time-management-for-adults-with-adhd/)
-- [Estratégias de produtividade para ADHD](https://www.understood.org/en/articles/productivity-strategies-for-adults-with-adhd)
-- [Por que ferramentas offline funcionam melhor](https://www.psychologytoday.com/us/blog/technology-and-the-mind/201806/why-paper-to-do-lists-are-more-effective-than-digital-ones)
